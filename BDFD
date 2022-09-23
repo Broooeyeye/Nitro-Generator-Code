@@ -1,0 +1,8 @@
+First! Download bdfd. Make a bot. 
+
+PASTE THIS EXACT SAME CODE:
+
+Command name: ?nitro
+
+Code: $nomention
+$dm $randomString[9]$randomString[7]
